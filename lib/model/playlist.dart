@@ -11,12 +11,12 @@ List<Playlist> playlists = [
   Playlist(
     id: 1,
     playlistName: 'Party',
-    image: "assets/image/party.png",
+    image: "assets/image/car.png",
   ),
   Playlist(
     id: 2,
     playlistName: 'Peace',
-    image: "assets/image/meditation.png",
+    image: "assets/image/flower.png",
   ),
   Playlist(
     id: 3,

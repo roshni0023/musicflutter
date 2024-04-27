@@ -12,13 +12,13 @@ List<Song> songs = [
   Song(
       id: 1,
       SongName: "Hero",
-      image: "assets/image/meditation.png",
+      image: "assets/image/girl.png",
       artist: 'Taylor Swift'
   ),
   Song(
       id: 2,
       SongName: "unholy",
-      image: "assets/image/party.png",
+      image: "assets/image/boy.png",
       artist: "Sam Smith,Kim peters"
   ),
   Song(
@@ -30,7 +30,7 @@ List<Song> songs = [
   Song(
       id: 4,
       SongName: "Depression",
-      image: "assets/image/love.png",
+      image: "assets/image/good.png",
       artist: "Dax"
   ),
   Song(

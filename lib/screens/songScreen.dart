@@ -51,7 +51,7 @@ class SongScreen extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(20.0),
                 image: DecorationImage(
-                  image: AssetImage("assets/image/meditation.png"),
+                  image: AssetImage("assets/image/flower.png"),
                   fit: BoxFit.fill,
                 ),
               ),
